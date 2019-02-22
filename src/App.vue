@@ -3,6 +3,8 @@
     <!-- 头部 -->
     <mt-header fixed title="Vue项目12345"></mt-header>
   
+	<!-- 中间 -->
+	<router-view></router-view>
 
 <h2>111111</h2>
 <!-- 底部 Tabbar 区域 -->

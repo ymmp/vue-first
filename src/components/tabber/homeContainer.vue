@@ -1,7 +1,7 @@
 <template>
-  <div>
-      <h3>这是goodList</h3>
-      </div>  
+    <div>
+        <h3>homeContainer</h3>
+    </div>
 </template>
 
 <script>
@@ -11,5 +11,5 @@ export default {
 </script>
 
 <style>
-
+    
 </style>
